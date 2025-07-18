@@ -1,0 +1,19 @@
+Model: XGBoost
+==================================================
+
+Model Type: Pipeline
+
+Best Parameters:
+model__colsample_bytree: 0.9
+model__learning_rate: 0.1
+model__max_depth: 5
+model__n_estimators: 300
+model__scale_pos_weight: 1
+model__subsample: 0.8
+
+Performance Metrics:
+Accuracy: 0.7729
+F1: 0.5973
+Precision: 0.5651
+Recall: 0.6335
+Roc_auc: 0.8197

@@ -1,0 +1,18 @@
+Model: Random Forest
+==================================================
+
+Model Type: Pipeline
+
+Best Parameters:
+model__class_weight: balanced_subsample
+model__max_depth: 35
+model__min_samples_leaf: 1
+model__min_samples_split: 5
+model__n_estimators: 100
+
+Performance Metrics:
+Accuracy: 0.7644
+F1: 0.5898
+Precision: 0.5491
+Recall: 0.6370
+Roc_auc: 0.8187

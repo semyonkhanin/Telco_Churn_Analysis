@@ -1,0 +1,17 @@
+Model: Logistic Regression
+==================================================
+
+Model Type: Pipeline
+
+Best Parameters:
+model__C: 0.01
+model__class_weight: {0: 1, 1: 5}
+model__penalty: l1
+model__solver: saga
+
+Performance Metrics:
+Accuracy: 0.5336
+F1: 0.5282
+Precision: 0.3613
+Recall: 0.9822
+Roc_auc: 0.8343

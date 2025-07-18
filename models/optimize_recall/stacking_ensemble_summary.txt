@@ -1,0 +1,14 @@
+Model: Stacking Ensemble
+==================================================
+
+Model Type: StackingClassifier
+
+Best Parameters:
+base_models: ['Pipeline', 'Pipeline', 'Pipeline']
+
+Performance Metrics:
+Accuracy: 0.7985
+F1: 0.5880
+Precision: 0.6441
+Recall: 0.5409
+Roc_auc: 0.8373
