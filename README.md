@@ -61,7 +61,6 @@ The main pipeline includes:
 
 ## Key Documents
 - **Telecoms_Churn_Report.pdf**: Comprehensive analysis of the entire project (Highly recommended reading)
-- **Modeling_and_Clustering_Results.xlsx**: Detailed results from modeling and clustering analyses
 - **visualizations/tableau/Tableau_Visualizations.twbx**: Interactive visualizations for Exploratory Data Analysis
 
 ## Results
